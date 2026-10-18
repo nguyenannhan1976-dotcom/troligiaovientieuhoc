@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Giáo Viên Tin Học Tiểu Học",
+  "description": "Siêu ứng dụng AI hỗ trợ giáo viên Tin học Tiểu học (Lớp 3, 4, 5) soạn giáo án, tạo slide PowerPoint, xưởng trò chơi tương tác, ra đề kiểm tra, phiếu học tập và tích hợp năng lực số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
